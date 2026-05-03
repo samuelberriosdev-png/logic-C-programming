@@ -28,8 +28,8 @@ git clone https://github.com
 3. Compile the file:
 
 gcc filename.c -o program
-4. Run:
 
+4. Run:
 ./program
 
-📫 Contacto: [Samuel Berrios] - [samuelberrios.dev@gmail.com]
+📫 Contact: [Samuel Berrios] - [samuelberrios.dev@gmail.com]
