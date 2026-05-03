@@ -30,6 +30,7 @@ git clone https://github.com
 gcc filename.c -o program
 
 4. Run:
+   
 ./program
 
 📫 Contact: [Samuel Berrios] - [samuelberrios.dev@gmail.com]
